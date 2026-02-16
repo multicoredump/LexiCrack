@@ -11,7 +11,7 @@ import SwiftUI
 struct LexiCrackApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LexiCrackView()
         }
     }
 }
